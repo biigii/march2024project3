@@ -1,15 +1,15 @@
-h1 {
+.block-block {
     background-color: orange;
 }
-.social {
-    background-color: yellow;
+
+.block-inline {
+    background-color: lightgreen;
 }
 
-.links {
-    background-color: pink;
+.inline-block {
+    background-color: red;
 }
 
-.important {
-    background-color: lightgray;
-    color: red;
+.inline-inline {
+    background-color: lightcoral;
 }
