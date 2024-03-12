@@ -1,4 +1,27 @@
-/* h1 {
-    font-size: 32px;
-    font-weight: bold;
-} */
+/* type selector  */
+body {
+    background-color: lightblue;
+}
+
+.burger {
+    color: red;
+}
+
+/* class selector */
+.apple {
+    background-color: pink;
+}
+
+/* id selector */
+#gold {
+    background-color: gold;
+    color: tomato
+}
+
+.heading {
+    color: purple
+}
+
+#header {
+    background-color: lightgreen;
+}
